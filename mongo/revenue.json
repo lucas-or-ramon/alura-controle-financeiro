@@ -1,0 +1,128 @@
+[
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 1500.0,
+        "description": "Salário",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 1200.0,
+        "description": "Vovó",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 3000.0,
+        "description": "Rendimentos",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 1500.0,
+        "description": "Mesada",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 400.0,
+        "description": "Freelancer",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 1200.0,
+        "description": "Salário",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 100.0,
+        "description": "Vovó",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 100.0,
+        "description": "Rendimentos",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 100.0,
+        "description": "Mesada",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 700.0,
+        "description": "Freelancer",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 100.0,
+        "description": "Achei no Chão",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 2500.0,
+        "description": "Salário",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 200.0,
+        "description": "Vovó",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 1000.0,
+        "description": "Rendimentos",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 150.0,
+        "description": "Mesada",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 500.0,
+        "description": "Freelancer",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 2500.0,
+        "description": "Salário",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 1100.0,
+        "description": "Vovó",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 30.0,
+        "description": "Rendimentos",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 50.0,
+        "description": "Mesada",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 800.0,
+        "description": "Freelancer",
+        "_class": "br.com.devcanoa.finance.model.Revenue"
+    }
+]

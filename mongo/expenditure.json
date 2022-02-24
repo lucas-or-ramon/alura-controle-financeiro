@@ -1,0 +1,170 @@
+[
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 700.0,
+        "description": "Aluguel",
+        "category": "HOME",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 500.0,
+        "description": "Inglês",
+        "category": "EDUCATION",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 600.0,
+        "description": "Supermercado",
+        "category": "FOOD",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 200.0,
+        "description": "Ônibus",
+        "category": "TRANSPORT",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 700.0,
+        "description": "Consulta Médica",
+        "category": "HEALTH",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-03-22T00:00:00Z"},
+        "value": 1000.0,
+        "description": "Óculos",
+        "category": "HEALTH",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 1000.0,
+        "description": "Aluguel",
+        "category": "HOME",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 600.0,
+        "description": "Inglês",
+        "category": "EDUCATION",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 500.0,
+        "description": "Supermercado",
+        "category": "FOOD",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 250.0,
+        "description": "Ônibus",
+        "category": "TRANSPORT",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 1500.0,
+        "description": "Viagem",
+        "category": "LEISURE",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-02-22T00:00:00Z"},
+        "value": 500.0,
+        "description": "Ajuda",
+        "category": "OTHER",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 100.0,
+        "description": "Aluguel",
+        "category": "HOME",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 500.0,
+        "description": "Inglês",
+        "category": "EDUCATION",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 700.0,
+        "description": "Supermercado",
+        "category": "FOOD",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 300.0,
+        "description": "Ônibus",
+        "category": "TRANSPORT",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 500.0,
+        "description": "Consulta Médica",
+        "category": "HEALTH",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2022-01-22T00:00:00Z"},
+        "value": 1000.0,
+        "description": "Reparo da Casa",
+        "category": "UNEXPECTED",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 1050.0,
+        "description": "Aluguel",
+        "category": "HOME",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 600.0,
+        "description": "Inglês",
+        "category": "EDUCATION",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 1000.0,
+        "description": "Supermercado",
+        "category": "FOOD",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 500.0,
+        "description": "Ônibus",
+        "category": "TRANSPORT",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 1000.0,
+        "description": "Consulta Médica",
+        "category": "HEALTH",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    },
+    {
+        "date": {"$date": "2021-12-22T00:00:00Z"},
+        "value": 100.0,
+        "description": "Outros",
+        "category": "OTHER",
+        "_class": "br.com.devcanoa.finance.model.Expenditure"
+    }
+]
