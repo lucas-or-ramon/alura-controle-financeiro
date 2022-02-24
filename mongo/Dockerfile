@@ -1,4 +1,4 @@
-FROM mongo:latest
+FROM bitnami/mongodb:5.0
 
 COPY expenditure.json /expenditure.json
 COPY revenue.json /revenue.json
