@@ -1,8 +1,8 @@
-version: "3.7"
+version: "3.7 "
 
 services:
   financeback:
-    build: ./finance_back/deploy
+    build: ./finance_back
     restart: always
     ports:
       - 8080:8080
@@ -10,10 +10,12 @@ services:
       - mongodb
       
   financefront:
-    build: ./finance_front/deploy
+    build: ./finance_front
     restart: always
     ports:
       - 8000:8000
+    depends_on:
+      - finance_back
   
   mongodb:
     image: mongo:latest
