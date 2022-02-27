@@ -1,20 +1,6 @@
-version: "3.7 "
+version: "3.7"
 
-services:
-  financeback:
-    build: ./finance_back
-    restart: always
-    ports:
-      - 8080:8080
-    depends_on:
-      - mongodb
-      
-  financefront:
-    build: ./finance_front
-    restart: always
-    ports:
-      - 8000:8000
-  
+services: 
   mongodb:
     image: bitnami/mongodb:5.0
     restart: always
