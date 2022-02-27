@@ -11,8 +11,8 @@ services:
     image: bitnami/mongodb:5.0
     volumes:
       - .:/mongo
-    command:
-      "mongoimport --host mongodb --db finance --collection revenue --drop --type json --file /mongo/revenue.json --jsonArray && \
-      mongoimport --host mongodb --db finance --collection expenditure --drop --type json --file /mongo/expenditure.json --jsonArray"
+    command: >
+       bash -c "mongoimport --host mongodb --db finance --collection revenue --drop --type json --file /mongo/revenue.json --jsonArray && 
+       mongoimport --host mongodb --db finance --collection expenditure --drop --type json --file /mongo/expenditure.json --jsonArray"
     depends_on:
       - mongodb
